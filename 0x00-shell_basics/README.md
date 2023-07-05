@@ -1,1 +1,1 @@
-this directory prints absolute path of current directory.
+ this directory explains how to display current working directory
